@@ -12,7 +12,6 @@
 .header_logo-image {
   display: block;
 }
-/* понимаю что в задании было сказано сделать display: flex, но в теории, ничего страшного если будет вот так? */
 .header__links-list {
   display: grid;
   grid-template-columns: 67px 149px 108px;
@@ -52,7 +51,6 @@
   background-position: center;
   z-index: 1;
 }
-/*c тем что выше законччил */
 .overlay {
   position: absolute;
   background-color: rgba(0 0 0 / 0.6);
